@@ -1,0 +1,13 @@
+## Acerca de este repositorio
+Es el sitio completo incluída la base de datos.
+Coresponde al vídeo [Crear un Slideshow con Twenty Twenty]((http://drupalalsur.org/videos/crear-un-slideshow-con-twentytwenty).
+
+## Instalación
+
+* Descarga el sitio a tu equipo.
+* Inicia el instalador como simpre.
+* Selecciona el perfíl Drupal al Sur, es el último.
+* Ingresa los datos correspondientes a la base de datos.
+* No necesitas importar la base antes, se hace durante la instalación.
+* Al finalizar la misma solo te pregunta por la contraseña, pero puedes cambiar estos datos.
+* Este sitio no esta hecho para producción, es solo para que compares con tu trabajo.
