@@ -1,0 +1,50 @@
+;
+name = Drupal al Sur
+description = Perfil de Drupal al Sur
+version = VERSION
+core = 7.x
+
+; Install necessary core modules.
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = locale
+
+; Install dependencies
+dependencies[] = l10n_update
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = libraries
+dependencies[] = colorbox
+dependencies[] = jquery_update
+;dependencies[] = zurb_twentytwenty
+
+; Install Features
+dependencies[] = features
+dependencies[] = slideshow_twenty_twenty
+
+files[] = alsur.profile
+
+; System Requirements.
+php_memory_limit = 128M
+
+version = "7.0"
+project = "drupal"

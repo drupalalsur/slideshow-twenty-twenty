@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Slideshow Twenty Twenty feature.
+ */
+
+include_once 'slideshow_twenty_twenty.features.inc';
