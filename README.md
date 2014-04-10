@@ -1,5 +1,5 @@
 ## Acerca de este repositorio
-Es el sitio completo incluida la base de datos. Corresponde al vídeo [Crear un Slideshow con Twenty Twenty]((http://drupalalsur.org/videos/crear-un-slideshow-con-twentytwenty).
+Es el sitio completo incluida la base de datos. Corresponde al vídeo [Crear un Slideshow con Twenty Twenty](http://drupalalsur.org/videos/crear-un-slideshow-con-twentytwenty).
 
 ## Instalación
 
