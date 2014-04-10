@@ -6,6 +6,7 @@ Es el sitio completo incluida la base de datos. Corresponde al vídeo [Crear un 
 * Descarga el sitio a tu equipo.
 * Inicia el instalador como siempre.
 * Selecciona el perfil Drupal al Sur, es el último.
+* Si lo deseas selecciona el idioma español.
 * Ingresa los datos correspondientes a la base de datos.
 * No necesitas importar la base antes, se hace durante la instalación.
 * Al finalizar la misma solo te pregunta por la contraseña, pero puedes cambiar estos datos.
